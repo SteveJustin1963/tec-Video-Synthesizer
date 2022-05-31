@@ -22,5 +22,7 @@ A video synthesizer is a device that electronically creates a video signal. A vi
 - https://www.youtube.com/watch?v=EexCanLriNs
 - http://gleix.net/100pfb
 - https://www.google.com/search?q=analog+video+synthesizer+circuits&rlz=1C1FKPE_en-GBAU984AU984&sxsrf=ALiCzsbi_2KMx0NtcINsxUKrmkv-4vXpXw:1652418707552&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4u9Ww29v3AhX1SmwGHQzrDD8Q_AUoAXoECAIQAw&biw=1366&bih=657&dpr=1#imgrc=Al1qz-nj3CFcUM
-
+- https://jonasbers.com/crap-video-synth-for-10/
+- https://hackaday.com/tag/video-synthesizer/
+- 
 
